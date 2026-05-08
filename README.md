@@ -1,2 +1,2 @@
-# portfolioScripts
-DCC scripts/utilities for my portfolio project
+# Threejs Utilities
+Utilities and scripts for my Three.js projects

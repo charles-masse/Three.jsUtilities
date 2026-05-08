@@ -5,7 +5,7 @@ from PIL import Image
 
 import maya.cmds as cmds
 
-SAVE_PATH = 'D:/Desktop/Scripts/portfolio/public/VAT/animations.png'
+SAVE_PATH = 'C:/Users/charl/Documents/Scripts/portfolio/public/Pedestrians/VAT.png'
 
 def lerpFactor(a, b, value):
     return (value - a) / (b - a)
